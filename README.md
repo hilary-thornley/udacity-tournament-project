@@ -1,2 +1,2 @@
 # udacity-tournament-project
-Udacity "Intro to Programming" course: Stage 5: Back end programming final project
+Udacity "Intro to Programming" Nanodegree, Stage 5, Back-end developer path, final project
