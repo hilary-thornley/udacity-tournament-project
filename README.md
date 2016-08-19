@@ -8,17 +8,13 @@
 <li>Open GitBash and navigate to the Vagrant directory (i.e. cd fullstack/vagrant/tournament)</li>
 <li>Enter vagrant up, then enter vagrant ssh</li>
 <li>Navigate to tournament directory (i.e. cd /vagrant/tournament) and enter psql</li>
-<li>Enter \i tournament.sql. Confirm following output:<br></li>
-<code>
-"
+<li>Enter \i tournament.sql. Confirm following output:</li>
 DROP DATABASE<br>
 CREATE DATABASE<br>
 You are now connected to database "tournament" as user "vagrant".<br>
 CREATE TABLE<br>
 CREATE TABLE<br>
 CREATE VIEW<br>
-"
-</code>
 <li>Enter \q</li>
 <li>Enter python tournament_test.py.  Confirm following output:</li>
 1. countPlayers() returns 0 after initial deletePlayers() execution.<br>
