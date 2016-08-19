@@ -21,8 +21,6 @@ CREATE VIEW<br>
 </code>
 <li>Enter \q</li>
 <li>Enter python tournament_test.py.  Confirm following output:</li>
-<code>
- "
 1. countPlayers() returns 0 after initial deletePlayers() execution.<br>
 2. countPlayers() returns 1 after one player is registered.<br>
 3. countPlayers() returns 2 after two players are registered.<br>
@@ -34,7 +32,5 @@ CREATE VIEW<br>
 9. Matches are properly deleted.<br>
 10. After one match, players with one win are properly paired.<br>
 Success!  All tests pass!<br>
-"
-</code>
 </ul>
 </p>
