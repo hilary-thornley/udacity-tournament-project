@@ -2,10 +2,10 @@
 <p>Final project for the Back-end Developer path (Stage 5) of Udacity's "Intro to Programming" Nanodegree</p>
 
 <h2>Overview</h2>
-<p>text
+<p>This project includes a SQL module that creates a database for storing data on a "swiss pairings" style tournament, as well as a Python code module for creating records of tournament players, matches and results to be stored in the database.
 </p>
 
-<h2>Instructions for testing the code:</h2>
+<h2>Instructions for testing the modules:</h2>
 <p>
 <ul>
 <li>Follow Udacity's guide to installing and running Vagrant: https://www.udacity.com/wiki/ud197/install-vagrant?_ga=1.62732204.1876431276.1456523634</li>
