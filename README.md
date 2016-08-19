@@ -9,14 +9,14 @@
 <li>Enter vagrant up, then enter vagrant ssh</li>
 <li>Navigate to tournament directory (i.e. cd /vagrant/tournament) and enter psql</li>
 <li>Enter \i tournament.sql. Confirm following output:<br></li>
-    <code>
-    "DROP DATABASE
-    CREATE DATABASE
-    You are now connected to database "tournament" as user "vagrant".
-    CREATE TABLE
-    CREATE TABLE
-    CREATE VIEW
-    "</code>
+<code>
+DROP DATABASE \r
+CREATE DATABASE
+You are now connected to database "tournament" as user "vagrant".
+CREATE TABLE
+CREATE TABLE
+CREATE VIEW
+</code>
 <li>Enter \q</li>
 <li>Enter python tournament_test.py.  Confirm following output:</li>
     <code>
