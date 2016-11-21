@@ -17,7 +17,6 @@ This project includes a SQL module that creates a database for storing data on a
 		CREATE TABLE 
 		CREATE TABLE 
 		CREATE VIEW
-			
 * Enter \q
 * Enter python tournament_test.py.  Confirm following output:
 
