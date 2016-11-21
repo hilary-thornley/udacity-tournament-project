@@ -10,12 +10,14 @@ This project includes a SQL module that creates a database for storing data on a
 * Enter vagrant up, then enter vagrant ssh
 * Navigate to tournament directory (i.e. cd /vagrant/tournament) and enter psql
 * Enter \i tournament.sql. Confirm following output:
-  - DROP DATABASE
-  - CREATE DATABASE
-  - You are now connected to database "tournament" as user "vagrant".
-  - CREATE TABLE
-  - CREATE TABLE
-  - CREATE VIEW
+		
+			DROP DATABASE 
+			CREATE DATABASE 
+			You are now connected to database "tournament" as user "vagrant". 
+			CREATE TABLE 
+			CREATE TABLE 
+			CREATE VIEW
+			
 * Enter \q
 * Enter python tournament_test.py.  Confirm following output:
   1. countPlayers() returns 0 after initial deletePlayers() execution.
