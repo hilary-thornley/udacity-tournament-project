@@ -5,7 +5,7 @@ Final project for the Back-end Developer path (Stage 5) of Udacity's "Intro to P
 This project includes a SQL module that creates a database for storing data on a "swiss pairings" style tournament, as well as a Python code module for creating records of tournament players, matches and results to be stored in the database.
 
 ## Instructions for testing the modules:
-* Follow Udacity's guide to installing and running Vagrant: https://www.udacity.com/wiki/ud197/install-vagrant?_ga=1.62732204.1876431276.1456523634</li>
+* Follow [Udacity's guide to installing and running Vagrant] (https://www.udacity.com/wiki/ud197/install-vagrant?_ga=1.62732204.1876431276.1456523634).
 * Open GitBash and navigate to the Vagrant directory (i.e. cd fullstack/vagrant/tournament)
 * Enter vagrant up, then enter vagrant ssh
 * Navigate to tournament directory (i.e. cd /vagrant/tournament) and enter psql
