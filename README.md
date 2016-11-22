@@ -1,4 +1,4 @@
-# Swiss Pairings Tournament Code
+# Swiss Pairings Tournament Project
 Final project for the Back-end Developer path (Stage 5) of Udacity's "Intro to Programming" Nanodegree
 
 ## Overview
